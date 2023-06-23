@@ -1,6 +1,6 @@
 # aplib2c
 
-A new Flutter project.
+Aplicacion sencilla que utiliza azure B2C.
 
 ## Getting Started
 
